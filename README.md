@@ -1,4 +1,4 @@
-![Header](./github-header-image(1).png)
+
 <h1 align="center">Hi 👋, I'm Dipit Madan</h1>
 <h3 align="center">A fullstack developer with interest in WebDevelopment and MachineLearning/DeepLearning</h3>
 <img src = "https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" width = 400 align = "right" alt = "Coding">
