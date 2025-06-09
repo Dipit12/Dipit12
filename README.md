@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJS<br>👯 I’m looking to collaborate on FullStack Projects<br>🌱 I’m currently learning FullStack Dev<br>💬 Ask me about TypeScript,JavaScript,Python, WebDev, Machine Learning, GenAI<br>📫 How to reach me dipitmadan@gmail.com<br>
+🔭 I’m currently working on Agentic AI<br>👯 I’m looking to collaborate on FullStack Projects<br>🌱 I’m currently learning FullStack Dev<br>💬 Ask me about TypeScript,JavaScript,Python, WebDev, Machine Learning, GenAI<br>📫 How to reach me dipitmadan@gmail.com<br>
 
 
 ## 🌐 Socials:
